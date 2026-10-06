@@ -66,7 +66,7 @@ using the [Docker config](./docker.md) provided in the qsim GitHub repository.
 ## Testing
 
 After installing `qsimcirq` on your machine, you can test the installation by
-copying [qsimcirq_tests/qsimcirq_test.py](qsimcirq_tests/qsimcirq_test.py)
+copying [qsimcirq_tests/qsimcirq_test.py](../qsimcirq_tests/qsimcirq_test.py)
 to your machine and running `python3 -m pytest qsimcirq_test.py`.
 
 The file `qsimcirq_test.py` also has examples of how to use qsimcirq.
